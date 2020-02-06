@@ -1,0 +1,7 @@
+版本:Unity 2018.4.14f1 (64-bit)
+
+UWA網址__https://lab.uwa4d.com/lab/5c4a2aae72745c25a8cc3d88
+
+官方Github網址__https://github.com/DenizDalkilic10/Currency-Converter-Augmented-Reality
+
+本人Github網址__https://github.com/z1125411235/Currency-Converter-Augmented-Reality
